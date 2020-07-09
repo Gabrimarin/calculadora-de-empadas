@@ -1,0 +1,12 @@
+{
+  "name": "empadas",
+  "displayName": "empadas",
+  "expo": {
+    "name": "empadas",
+    "slug": "empadas",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
